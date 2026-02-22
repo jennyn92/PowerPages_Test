@@ -1,0 +1,12 @@
+adx_append: false
+adx_appendto: false
+adx_create: true
+adx_delete: false
+adx_entitylogicalname: crec2_formtabletest
+adx_entityname: Requests - Create
+adx_entitypermission_webrole:
+- cd31178b-8bce-49fb-abdd-993bc9048054
+adx_entitypermissionid: 4855fb25-2710-f111-8342-6045bd0b03b4
+adx_read: false
+adx_scope: 756150000
+adx_write: false

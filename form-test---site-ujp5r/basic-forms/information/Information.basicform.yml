@@ -1,0 +1,21 @@
+adx_attachfilelabel: ''
+adx_attachfilemaxsize: 
+adx_attachfilestoragelocation: 756150000
+adx_captcharequired: true
+adx_containername: ''
+adx_entityformid: 5f7f72b0-bdf3-4285-b664-fdbc73590663
+adx_entityname: crec2_formtabletest
+adx_entitypermissionsenabled: true
+adx_entitysourcetype: 0
+adx_formname: Information
+adx_hideformonsuccess: true
+adx_maximumnooffiles: 5
+adx_mode: 100000000
+adx_name: Information
+adx_onsuccess: 756150000
+adx_recordidquerystringparametername: 
+adx_redirecturl: 
+adx_redirectwebpage: 
+adx_showcaptchaforauthenticatedusers: true
+adx_storageaccountname: ''
+adx_successmessage: ''
